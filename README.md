@@ -10,6 +10,7 @@ Create a Leadpush account at [leadpush.io](https://leadpush.io).
 pip install leadpush
 ```
 
+
 Requirements:
 
 - Python 3.10 or newer
